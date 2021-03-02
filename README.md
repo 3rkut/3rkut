@@ -40,5 +40,6 @@ Follow me on [![alt text][1.2]][1]
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malwarehenri&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malwarehenri&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
