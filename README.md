@@ -16,10 +16,9 @@ My plan is currently researching interesting new malwares, crime groups(threat a
 ### 📓 Blogs:
 
 - https://malwarehenri.medium.com
+Follow me on [![alt text][1.1]][1]
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!-- display the social media buttons in your README -->
-Follow me on [![alt text][1.1]][1]
-
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
