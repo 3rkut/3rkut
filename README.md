@@ -17,18 +17,10 @@ My plan is currently researching interesting new malwares, crime groups(threat a
 
 - https://malwarehenri.medium.com
 
-[![alt text][1.1]][1]
-[1]: http://www.twitter.com/malwarehenri
-
 Follow me on [![alt text][1.1]][1]
-
-
-
-
 [![alt text][1.1]][1]
-
-
-[![alt text][1.2]][1]
+[1.1]: http://i.imgur.com/tXSoThF.png
+[1]: http://www.twitter.com/malwarehenri
 
 
 
