@@ -17,24 +17,7 @@ My plan is currently researching interesting new malwares, crime groups(threat a
 
 - https://malwarehenri.medium.com
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-
-<!-- icons without padding -->
-
-
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
+[![alt text][1.1]][1]
 [1]: http://www.twitter.com/malwarehenri
 
 Follow me on [![alt text][1.1]][1]
