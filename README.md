@@ -36,7 +36,7 @@ Follow me on [![alt text][1.2]][1]
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/carlsednaoui
+[1]: http://www.twitter.com/malwarehenri
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malwarehenri&show_icons=true&theme=radical)
