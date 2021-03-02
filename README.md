@@ -27,8 +27,6 @@ Follow me on [![alt text][1.2]][1]
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-
-
 <!-- icons without padding -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
@@ -41,3 +39,6 @@ Follow me on [![alt text][1.2]][1]
 [1]: http://www.twitter.com/carlsednaoui
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malwarehenri&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malwarehenri&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
