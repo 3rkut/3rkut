@@ -17,6 +17,11 @@ My plan is currently researching interesting new malwares, crime groups(threat a
 
 - https://malwarehenri.medium.com
 
+[![alt text][1.1]][1]
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1]: http://www.twitter.com/malwarehenri
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malwarehenri&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malwarehenri)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malwarehenri&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
