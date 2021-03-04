@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm 20 years old Malware Researcher from Turkey.
+I'm 20 year old Malware Researcher from Turkey.
 
 ## About Me:
 I grew up with computers. I met computers when I was 5.(Casper PC) In highschool, Linux and some malwares really blew my mind.(ZeuS and SpyEye) and I analyzed, tested them. How this malwares coded, who created, what are the methods for infecting to computers. And I really love and interested in all of them. Nowadays I focused on mobile malwares. (Anubis, Exobot, Cerberus, alien, hydra etc..) and their injections methods, communicating methods > c2 via tor or p2p bots.
