@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm 20 year old Malware Researcher from Turkey.
+I'm 20 year old Programmer and Malware Researcher from Turkey.
 
 <p align="center"><img width="40%" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" /></p>
 
