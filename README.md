@@ -43,4 +43,4 @@ Follow me on [![alt text][1.2]][1]
 [1]: http://www.twitter.com/malwarehenri
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-<p align="center"><img width="80%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=malwarehenri&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&card_width=500" /></p>
+<p align="center"><img width="60%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=malwarehenri&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&card_width=500" /></p>
