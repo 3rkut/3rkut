@@ -5,7 +5,7 @@ I'm 20 year old Threat Intelligence Analyst from Turkey.
 <p align="center"><img width="40%" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" /></p>
 
 
-🌱 I’m currently learning windows,programming(mostly  Go) and pentest
+🌱 I’m currently learning windows internals,programming(mostly  Go) and red teaming
 
 ### Special Interests:
 
