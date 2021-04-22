@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm 20 year old Threat Intelligence Analyst from Turkey.
+I'm 20 y.o Threat Intelligence Analyst from Turkey.
 
 <p align="center"><img width="40%" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" /></p>
 
