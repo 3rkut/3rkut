@@ -1,22 +1,8 @@
 # Hi there 👋
 
-I'm 20 y.o Threat Intelligence Analyst from Turkey.
-
-<p align="center"><img width="40%" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" /></p>
-
+20 y.o Threat Intelligence Analyst from Turkey.
 
 🌱 I’m currently learning windows internals,programming(mostly  Go) and red teaming
-
-### Special Interests:
-
-- State sponsored hacker groups(Sandworm, Lazarus etc..) actually all APTs
-- Financial motivated groups ( like fin7) and their methods > hvnc, supply chain & watering hole attacks or usbkiller attack :)
-- And other nigerians bec scams (public rats and some spam mailer tool stuff)
-- Ransomware Groups and RDP access sellers/actors
-
-### 📓 Blogs:
-
-- https://malwarehenri.medium.com
 
 Follow me on [![alt text][1.2]][1]
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
