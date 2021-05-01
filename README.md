@@ -2,7 +2,7 @@
 
 20 y.o Threat Intelligence Analyst from Turkey.
 
-🌱 I’m currently learning windows internals,programming(mostly  Go) and red teaming
+🌱 I’m currently learning windows internals,programming(Golang) and red teaming
 
 Follow me on [![alt text][1.2]][1]
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
