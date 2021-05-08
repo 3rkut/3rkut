@@ -1,8 +1,7 @@
 # Hi there 👋
 
-20 y.o Threat Intelligence Analyst from Turkey.
-
-🌱 I’m currently learning windows internals,programming(Golang) and red teaming
+interested in malware,apt,espionage topics...
+🌱 I’m currently learning pentesting and programming(Golang)
 
 Follow me on [![alt text][1.2]][1]
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
@@ -23,7 +22,7 @@ Follow me on [![alt text][1.2]][1]
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/malwarehenri
+[1]: http://www.twitter.com/re4lHenri
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <p align="center"><img width="75%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=3rkut&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&card_width=500" /></p>
