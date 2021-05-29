@@ -4,7 +4,7 @@ interested in malware,apt,espionage topics...
 
 🌱 I’m currently learning pentesting and programming(Golang)
 
-Follow me on [![alt text][1.2]][1]
+<!-- Follow me on [![alt text][1.2]][1] -- >
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!-- display the social media buttons in your README -->
 
