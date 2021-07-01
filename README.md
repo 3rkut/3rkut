@@ -1,8 +1,7 @@
-# Hi there 👋 <img align='right' src="https://profile-counter.glitch.me/3rkut/count.svg" width="200">
-
-interested in malware,apt,espionage topics... 
-
-🌱 I’m currently learning pentesting and programming(Golang)
+# Hi there 👋
+I am **Erkut**.
+* 🔭 interested in malware,APT and cyber espionage topics... 
+* 🌱 I am currently learning pentesting, programming(Golang) and *nix.
 
 <!-- Follow me on [![alt text][1.2]][1] -- >
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
@@ -26,4 +25,6 @@ interested in malware,apt,espionage topics...
 <!-- [1]: http://www.twitter.com/nickname -->
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-<p align="center"><img width="60%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=3rkut&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&card_width=200" /></p>
+<p align="center"><img width="60%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=3rkut&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&card_width=200&theme=tokyonight" /></p>
+
+### Visitors <img align='right' src="https://profile-counter.glitch.me/3rkut/count.svg" width="200">
