@@ -17,8 +17,8 @@ I am **Erkut**.
 
 <!-- [1]: http://www.twitter.com/nickname -->
 
-<p align="center"><img width="60%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=3rkut&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&card_width=200&theme=tokyonight" /></p>
+# My metrics
 
-<p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=3rkut&layout=compact&theme=tokyonight&card_width=1000&hide_border=true" /></p>
+![Metrics](https://metrics.lecoq.io/3rkut?template=classic&config.timezone=Europe%2FIstanbul)
 
 ### Visitors <img align='right' src="https://profile-counter.glitch.me/3rkut/count.svg" width="200">
