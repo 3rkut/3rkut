@@ -20,5 +20,3 @@ I am **Erkut**.
 # My metrics
 
 ![Metrics](https://metrics.lecoq.io/3rkut?template=classic&config.timezone=Europe%2FIstanbul)
-
-### Visitors <img align='right' src="https://profile-counter.glitch.me/3rkut/count.svg" width="200">
