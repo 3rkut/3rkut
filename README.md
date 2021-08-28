@@ -1,7 +1,7 @@
 # Hi there 👋
 I am **Erkut**.
 * 🔭 Interested in malware,APT and cyber espionage topics... 
-* 🌱 I'm currently learning pentesting, programming(Golang) and *nix.
+* 🌱 Currently learning pentesting-redteaming, programming(Golang) and *nix.
 
 <!-- icons with padding -->
 
